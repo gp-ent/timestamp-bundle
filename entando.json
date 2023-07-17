@@ -1,0 +1,17 @@
+{
+    "microservices": [
+        {
+            "name": "timestamp-service",
+            "stack": "spring-boot",
+            "healthCheckPath": "/health",
+            "commands": {
+                "run": "mvn spring-boot:run"
+            }
+        }
+    ],
+    "microfrontends": [],
+    "name": "timestamp-bundle",
+    "description": "This bundle will tell you the current timestamp",
+    "version": "1.0.0",
+    "type": "bundle"
+}
