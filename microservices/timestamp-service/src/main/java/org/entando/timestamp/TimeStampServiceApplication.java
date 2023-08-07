@@ -1,4 +1,4 @@
-package org.entando.codemotion;
+package org.entando.timestamp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

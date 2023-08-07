@@ -1,4 +1,4 @@
-package org.entando.codemotion.controller;
+package org.entando.timestamp.controller;
 
 import org.springframework.web.bind.annotation.*;
 

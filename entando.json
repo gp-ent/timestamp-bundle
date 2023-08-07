@@ -6,7 +6,8 @@
             "healthCheckPath": "/health",
             "commands": {
                 "run": "mvn spring-boot:run"
-            }
+            },
+            "env": []
         }
     ],
     "microfrontends": [],
