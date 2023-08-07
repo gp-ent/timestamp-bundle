@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>org.entando.codemotion</groupId>
 	<artifactId>timstamp-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>timestamp-service</name>
 	<description>TimeStamp Service</description>
 	<properties>

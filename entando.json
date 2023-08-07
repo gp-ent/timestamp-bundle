@@ -13,6 +13,6 @@
     "microfrontends": [],
     "name": "timestamp-bundle",
     "description": "This bundle will tell you the current timestamp",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "bundle"
 }
